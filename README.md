@@ -1,6 +1,6 @@
 ## UDP Pinger in Python
 
-This is a simple [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) pinger excercise from the programming assignments of chapter two of [Computer Networks]() book.
+This is a simple [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) pinger excercise from the programming assignments of chapter two of [Computer Networking](http://www.amazon.com/Computer-Networking-Top-Down-Approach-Edition/dp/0132856204) book.
 
 ### Quick start
 
