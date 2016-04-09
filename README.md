@@ -2,7 +2,7 @@
 
 This is a simple [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) pinger excercise from the programming assignments of chapter two of [Computer Networks]() book.
 
-# Quick start
+### Quick start
 
 To get started, clone the repository and run the server code.
 
@@ -25,7 +25,7 @@ Then, in a new terminal tab run the client code.
 $ python client.py
 ```
 
-**Output**
+**Sample output**
 ```bash
 REQUEST TIMED OUT
 TEST 1 0.00101709365845
