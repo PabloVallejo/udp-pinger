@@ -27,6 +27,6 @@ while True:
     # If rand is less is than 4, we consider the packet lost and do notrespond
     if rand >= 4:
 
-	    # The server responds.
-	    serverSocket.sendto(message, address)
+        # The server responds.
+        serverSocket.sendto(message, address)
 
